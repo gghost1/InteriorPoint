@@ -10,5 +10,5 @@ The program solves the average LLM problems
 ### The problem should be in this format:
 Maximize <init function z (z = <your function\>)\>\
 Bounded by:\
-(your functions in the format of inequality with operand <=)
+(your functions in the format of inequality)
 - <b> If you have minimization problem, you should multiply your init function by -1</b>
